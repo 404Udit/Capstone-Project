@@ -31,8 +31,8 @@ warnings.filterwarnings("ignore")
 
 # Below code block is for local use
 # -------------------------------------------------------------------------------------
-mlflow.set_tracking_uri(os.environ['MLFlow_Tracking_URI'])
-dagshub.init(repo_owner=os.environ['repo_owner'], repo_name=os.environ['repo_name'], mlflow=True)
+mlflow.set_tracking_uri(os.environ['MLFLOW_TRACKING_URI'])
+dagshub.init(repo_owner=os.environ['REPO_OWNER'], repo_name=os.environ['REPO_NAME'], mlflow=True)
 # -------------------------------------------------------------------------------------
 
 
