@@ -201,8 +201,7 @@ kubectl get svc flask-app-service
 
 ## 👤 Author
 
-**Udit Shrivastav**
-Civil Engineering @ IIT Madras
+**Udit Srivastava**  
 Interested in **MLOps, Data Science, and Scalable ML Systems**
 
 ---
