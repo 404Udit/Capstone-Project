@@ -189,13 +189,13 @@ kubectl get svc flask-app-service
 
 ## ✅ Key Highlights
 
-✔ End-to-end production-ready MLOps project
-✔ Reproducible pipelines using DVC
-✔ Experiment tracking with MLflow (DagsHub)
-✔ CI/CD automation with GitHub Actions
-✔ Dockerized and Kubernetes deployed
-✔ AWS EKS + ECR integration
-✔ Monitoring with Prometheus & Grafana
+✔ End-to-end production-ready MLOps project  
+✔ Reproducible pipelines using DVC  
+✔ Experiment tracking with MLflow (DagsHub)  
+✔ CI/CD automation with GitHub Actions  
+✔ Dockerized and Kubernetes deployed  
+✔ AWS EKS + ECR integration  
+✔ Monitoring with Prometheus & Grafana  
 
 ---
 
